@@ -1,0 +1,22 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasstrassmann/simon-says.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasstrassmann/simon-says/issues"
+  },
+  "homepage": "https://github.com/thomasstrassmann/simon-says#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
